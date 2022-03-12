@@ -5,3 +5,5 @@
 
 
 # M2_projectGoal_Offline-Snake-Game
+
+![code grade](https://api.codiga.io/project/31252/score/svg)
